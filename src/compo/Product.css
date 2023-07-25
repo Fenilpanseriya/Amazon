@@ -1,0 +1,11 @@
+.cont{
+    display: flexbox;
+    &:hover{
+       transition: all;
+       transition-delay: 2s;
+    }
+    
+}
+.container{
+    align-items: center;
+}
